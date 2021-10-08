@@ -1,0 +1,9 @@
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\bin\Debug\Praktikum_satu.exe.config
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\bin\Debug\Praktikum_satu.exe
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\bin\Debug\Praktikum_satu.pdb
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\obj\Debug\Praktikum_satu.csprojResolveAssemblyReference.cache
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\obj\Debug\Praktikum_satu.Form1.resources
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\obj\Debug\Praktikum_satu.Properties.Resources.resources
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\obj\Debug\Praktikum_satu.csproj.GenerateResource.Cache
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\obj\Debug\Praktikum_satu.exe
+D:\titip yusuf\.Net Praktikum\Praktikum_satu\Praktikum_satu\obj\Debug\Praktikum_satu.pdb
