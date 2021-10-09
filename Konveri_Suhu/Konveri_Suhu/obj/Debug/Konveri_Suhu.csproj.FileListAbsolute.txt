@@ -1,0 +1,9 @@
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\bin\Debug\Konveri_Suhu.exe.config
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\bin\Debug\Konveri_Suhu.exe
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\bin\Debug\Konveri_Suhu.pdb
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\obj\Debug\Konveri_Suhu.csprojResolveAssemblyReference.cache
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\obj\Debug\Konveri_Suhu.Form1.resources
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\obj\Debug\Konveri_Suhu.Properties.Resources.resources
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\obj\Debug\Konveri_Suhu.csproj.GenerateResource.Cache
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\obj\Debug\Konveri_Suhu.exe
+D:\titip yusuf\.Net Praktikum\Konveri_Suhu\Konveri_Suhu\obj\Debug\Konveri_Suhu.pdb
